@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: computer-vision-projects-apr6t
+  project: fpv-drone-detection-and-tracking-znneo
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/computer-vision-projects-apr6t/fpv-drone-detection-and-tracking-znneo/dataset/2
