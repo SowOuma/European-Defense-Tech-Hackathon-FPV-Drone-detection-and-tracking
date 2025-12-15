@@ -50,15 +50,5 @@ The main goal of this project is to improve the detection and defense capabiliti
 ## Dataset
 This project uses synthetic 3D models of drones to generate labeled datasets for training AI models. The 3D models can be found in the datasets/ folder.
 
-### Explications :
-- **Description** : Présente brièvement l'objectif du projet et la raison de son développement.
-- **Features** : Liste des fonctionnalités principales.
-- **Objective** : Met l'accent sur l'impact de ce projet dans un contexte réel (zone de guerre, protection des infrastructures).
-- **Tools & Technologies** : Détaille les outils et langages utilisés.
-- **Installation** : Explique comment installer et configurer le projet.
-- **Usage** : Instructions pour démarrer le projet sur un flux vidéo.
-- **Dataset** : Mentionne l'utilisation des modèles 3D pour générer des jeux de données d'entraînement.
-- **Contributing** : Encouragement à contribuer au projet en améliorant le code.
-- **License** : Ajoute une licence MIT ou autre si nécessaire.
 
-Cela devrait te fournir une documentation propre et claire pour ton projet sur GitHub. N'hésite pas à ajuster les détails en fonction des spécificités de ton implémentation.
+
